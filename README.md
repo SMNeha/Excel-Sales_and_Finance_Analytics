@@ -1,2 +1,35 @@
 # Excel-Sales_Analytics
 My Excel Project on Sales Analysis of AtliQ Hardware 
+## Sales Report :
+
+- **Project objective:**
+
+    **1.** Create a _[customer performance report](https://github.com/SMNeha/Excel-Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SMNeha/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+
+- **Purpose of sales analytics:**
+  + Empower businesses to monitor and evaluate their sales activities and performance.
+  + Sales analytics empowers data-driven decision-making across the organization
+  + Sales analytics identifies potential sales opportunities by analyzing necessary behaviors, patterns and trends
+
+- **Importance of analyzing sales data:**
+  + Identify sales patterns and track key performance indicators (KPIs).
+  + Provides valuable insights into the performance of sales
+  + Businesses can optimize their sales and marketing strategies.
+
+- **Role of reports:**
+  + Determine effective customer discounts
+  + Facilitate negotiations with consumers
+  + Identify potential business expansion opportunities in promising countries.
+## Technical Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
