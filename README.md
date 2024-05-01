@@ -22,8 +22,10 @@ My Excel Project on Sales Analysis of AtliQ Hardware
   + Determine effective customer discounts
   + Facilitate negotiations with consumers
   + Identify potential business expansion opportunities in promising countries.
+
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
