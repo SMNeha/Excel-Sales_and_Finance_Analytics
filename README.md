@@ -16,7 +16,7 @@ My Excel Project on Sales and Finance Analysis of AtliQ Hardware
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SMNeha/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-  ## Purpose, Importance and Role :
+## Purpose, Importance and Role :
 
 - **Purpose of sales and finance analytics:**
   + Empowers businesses to monitor and evaluate their sales activities and performance.
